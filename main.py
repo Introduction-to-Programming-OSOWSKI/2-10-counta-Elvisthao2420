@@ -7,4 +7,4 @@ def countA(w):
             total = total + 1
     return total
 
-print(countA("Alabama"))
+print(countA("ant"))
